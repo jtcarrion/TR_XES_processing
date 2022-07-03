@@ -9,4 +9,4 @@ The VDS will contain the XES data collected from the dector and the list of hits
 
 The script here will sort the processed XES data based on laser On vs Off events as well as crystal hits vs no hit events with femtosecond percision. The Epix detector had odd background noise during data collection and the injection media for the crystals were new so vizualizing the extact events during a crystal hit will allow for limited background noise as well as allow us to subtract the non crystal hits data as background subtraction. 
 
-With the current state of the detector, analyzing laser on vs off events was only possible after sorting hits vs non hits to reduce the background noice enough to see the correct peaks. 
+With the current state of the detector, analyzing laser on vs off events was only possible after sorting hits vs non hits to reduce the background noice enough and see the correct peaks. 
