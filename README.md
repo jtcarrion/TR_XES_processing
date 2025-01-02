@@ -1,4 +1,4 @@
-# XES_data_vizualization
+# Time-Resolved X-Ray Emission Spectroscopy Data Vizualization
 This script can process, sort, and visualize X-ray Emission Spectroscopy (XES) data collected from SLAC National Accelerator Laboratory. Pairing XES and SFX data allows for observations of quantum changes in protein complexes at a femtosecond time scale. This script is meant for processing on SLAC's HPC utilizing Psana and Python 3.9. Raw data collected from the Epix100 XES and XTCAV SFX dector in the LCLS MFX hutch are processed and stored as Virtural Data Set (VDS) structures and the post-processing is stored in H5 datasets. 
 
 ## Installation:
